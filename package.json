@@ -1,9 +1,9 @@
 {
-  "name": "fuzzy-finder",
+  "name": "thancock20-fuzzy-finder",
   "version": "1.5.4",
   "main": "./lib/main",
   "description": "Open an editor to a file in the project with `cmd-t`.",
-  "repository": "https://github.com/atom/fuzzy-finder",
+  "repository": "https://github.com/thancock20/fuzzy-finder",
   "license": "MIT",
   "dependencies": {
     "async": "0.2.6",
